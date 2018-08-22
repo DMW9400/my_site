@@ -8,3 +8,5 @@ class Applications extends React.Component {
     )
   }
 }
+
+export default Applications
