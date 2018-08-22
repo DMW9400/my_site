@@ -9,7 +9,7 @@ class Navbar extends Component {
   render (){
     return (
       <div className="nav-div">
-        <nav>
+        <nav className="main-navbar">
           <ul className="nav-ul">
             <li className="nav-li"><Link to="/home">Home</Link></li>
             <li className="nav-li"><Link to="/apps">Apps</Link></li>

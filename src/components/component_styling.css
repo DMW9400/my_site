@@ -1,3 +1,16 @@
 .page-div {
-  border: solid 5px red; 
+  border: solid 5px red;
+}
+
+.nav-ul {
+  list-style-type: none;
+}
+.nav-li {
+  display: inline-block;
+  margin: 0px 20px;
+  text-align: center;
+}
+
+.main-navbar {
+  text-align:center;
 }
