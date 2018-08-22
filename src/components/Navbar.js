@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom'
 import Videos from './Videos'
 import Applications from './Applications'
+import component_styling from './component_styling.css'
+
 
 class Navbar extends Component {
   render (){
@@ -12,7 +14,7 @@ class Navbar extends Component {
             <li className="nav-li"><Link to="/home">Home</Link></li>
             <li className="nav-li"><Link to="/apps">Apps</Link></li>
             <li className="nav-li"><Link to="/videos">Video Demos</Link></li>
-            <li className="nav-li"><a href="https://soundcloud.com/matthew-welch-6/">SoundCloud Profile</a></li>
+            <li className="nav-li"><a href="https://soundcloud.com/matthew-welch-6/" target="_blank">SoundCloud Profile</a></li>
           </ul>
         </nav>
       </div>

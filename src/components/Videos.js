@@ -1,9 +1,10 @@
 import React, {Component} from 'react'
+import component_styling from './component_styling.css'
 
 class Videos extends React.Component {
   render (){
     return(
-      <div>
+      <div className="page-div">
         Videos!
       </div>
     )
