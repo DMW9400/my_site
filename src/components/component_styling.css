@@ -26,8 +26,17 @@ body {
 
 .name-header {
   color: #393f47;
+}
 
+a:visited {
+    color: #393f47;
+}
 
+a {
+  text-decoration: none;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 #header-div {
@@ -43,5 +52,5 @@ body {
 }
 
 .bio-div {
-  margin: 100px 40px 0px 40px;
+  margin: 100px 40px 40px 40px;
 }
