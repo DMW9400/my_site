@@ -53,7 +53,7 @@ a {
 }
 
 .bio-div {
-  margin: 70px 400px
+  margin: 70px 440px
 
 }
 
@@ -66,4 +66,13 @@ a {
   display: inline-block;
   text-align: center;
   margin: 100px 900px;
+}
+
+.app-iframe {
+  display: block;
+  margin: 40px;
+}
+
+.iframe-div {
+  margin: 0px 33%;
 }
