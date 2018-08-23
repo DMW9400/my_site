@@ -14,3 +14,25 @@
 .main-navbar {
   text-align:center;
 }
+
+h1 {
+  font-family: 'Titillium Web', sans-serif;
+  color: yellow;
+}
+
+body {
+  background-color: #C1D4EE;
+  }
+
+.name-header {
+  color: #393f47;
+
+
+}
+
+#header-div {
+  background-color: #ecf2f9;
+  border-radius: 25px;
+  width: 60%;
+  margin: 10px 10px 80px 20%;
+}

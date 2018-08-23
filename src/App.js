@@ -9,7 +9,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1 className="name-header">Matthew Welch, FullStack Web Developer</h1>
+        <div id="header-div">
+          <h1 className="name-header">Matthew Welch, FullStack Web Developer</h1>
+        </div>
         <Route path="/" component={Navbar}></Route>
         <Switch>
           <Route exact path="/home" component={Home} />
