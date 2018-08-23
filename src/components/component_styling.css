@@ -1,5 +1,5 @@
 .page-div {
-  border: solid 5px red;
+
 }
 
 .nav-ul {
@@ -48,9 +48,22 @@ a {
 
 .bio-p {
   font-family: 'Noticia Text', serif;
+  font-size: 18px;
   color: #393f47;
 }
 
 .bio-div {
-  margin: 100px 40px 40px 40px;
+  margin: 70px 400px
+
+}
+
+.icons-div {
+  margin-left: 35%;
+  margin-top: 60px;
+}
+
+.app-link {
+  display: inline-block;
+  text-align: center;
+  margin: 100px 900px;
 }
