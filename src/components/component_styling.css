@@ -36,3 +36,12 @@ body {
   width: 60%;
   margin: 10px 10px 80px 20%;
 }
+
+.bio-p {
+  font-family: 'Noticia Text', serif;
+  color: #393f47;
+}
+
+.bio-div {
+  margin: 100px 40px 0px 40px;
+}
